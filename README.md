@@ -1,2 +1,2 @@
-World's worst compiler designer...
-(I know Engineer would sound better, but I am severely underqualified)
+World's worst compiler designer...\n
+To be more serious, I program in C, which is the only language I am decent at. 

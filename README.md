@@ -1,4 +1,4 @@
-# Hello, I'm [Nesea Aerik]
+# Hello, I'm Nesea Aerik
 
 ## About Me
 I am a Handyman with a passion for Comiler Design.

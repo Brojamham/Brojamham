@@ -10,8 +10,8 @@ F100: 5
 ```
 **Now, this format is rather nonsensical, but it is pretty much what I mean, I'm interested in this, this format in particular. Things that are rather hexadecimal-esque.**
 ###### Spacer
-Anyway, I felt like updating this, because I felt like my original readme was trying to hard to be funny or nonchalant, and thought this was a much better representation of how I actually am, and gives a helpful insight into what I am interested in. Now, it is unlikely that it matters to you that you get this insight, but if you're reading this, then you have it now...
+Anyway, **I felt like updating this because I felt like my original readme was trying to hard to be funny or nonchalant**, and thought this was a much better representation of how I actually am, and gives a helpful insight into what I am interested in. Now, it is unlikely that it matters to you that you get this insight, but if you're reading this, then you have it now...
 
-## Whatever else I thought about (honestly should just blog)
+## Whatever else I thought about...
 
-Also, I dislike AI generated code. I don't have a problem with people who generate apps using AI, as long as they make it clear they used AI. Maybe not even make it clear to the people using the app, but the people who may want to work on it, or people who work in technology of which who are interested in the app. AI is rather helpful, I use it for general breakdowns of things I don't understand, or if I want some organization of data. AI is helpful, sadly, people use it wrong. This is random, but I just thought about it.
+Also, **I dislike AI generated code**. I don't have a problem with people who generate apps using AI, as long as they make it clear they used AI. Maybe not even make it clear to the people using the app, but the people who may want to work on it, or people who work in technology of which who are interested in the app. AI is rather helpful, I use it for general breakdowns of things I don't understand, or if I want some organization of data. AI is helpful, sadly, people use it wrong. This is random, but I just thought about it.

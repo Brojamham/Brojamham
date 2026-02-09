@@ -8,7 +8,7 @@ I've been trying to use assembly. **I have an interest in operating systems and 
 F100: 5  
 00AF: A  
 ```
-Now, this format is rather nonsensical, but it is pretty much what I mean, I'm interested in this, this format in particular. Things that are rather hexadecimal-esque.
+**Now, this format is rather nonsensical, but it is pretty much what I mean, I'm interested in this, this format in particular. Things that are rather hexadecimal-esque.**
 ###### Spacer
 Anyway, I felt like updating this, because I felt like my original readme was trying to hard to be funny or nonchalant, and thought this was a much better representation of how I actually am, and gives a helpful insight into what I am interested in. Now, it is unlikely that it matters to you that you get this insight, but if you're reading this, then you have it now...
 

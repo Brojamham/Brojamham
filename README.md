@@ -55,7 +55,7 @@ F100: 5
 000A: X  
 0F01: 22  
 0010: 3  
-F100: 5
+F100: 5  
 
 ## Whatever else I thought about (honestly should just blog)
 Now, this format is rather nonsensical, but it is pretty much what I mean, I'm interested in this, this format in particular. Things that are rather hexadecimal-esque.

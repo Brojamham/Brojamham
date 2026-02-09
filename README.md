@@ -1,7 +1,7 @@
 ## Brief Breakdown:
 I've been trying to use assembly. I have an interest in operating systems and vintage computers, mainly the components that run them, my interest is more into 8-bit and 16-bit architecture. I love tables that show large amounts of data, especially if they are completely text based. For example, if I were to make something like this:
 
-00AF: A
+00AF: A \n
 000A: X
 0F01: 22
 0010: 3
